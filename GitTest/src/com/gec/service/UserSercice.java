@@ -16,5 +16,7 @@ public interface UserSercice {
 	
 	//张三又添加了一个新方法
 	void newzhangsan();
+	
+	void nmsl();
 }
  
