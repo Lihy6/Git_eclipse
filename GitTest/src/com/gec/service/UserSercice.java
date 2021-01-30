@@ -13,5 +13,8 @@ public interface UserSercice {
 	//张三加了一个新方法
 	
 	void zhangsan();
+	
+	//张三又添加了一个新方法
+	void newzhangsan();
 }
  
