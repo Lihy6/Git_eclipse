@@ -10,11 +10,7 @@ public interface UserSercice {
 	//又一个方法
 	void newTest1();
 	
-	//张三加了一个新方法
-	
-	void zhangsan();
-	
-	//张三又添加了一个新方法
-	void newzhangsan();
+	//张三把主方法所有张三的方都删除了
+	void delzs();
 }
  
